@@ -1,0 +1,8 @@
+name: NightRush
+version: 1.0
+main: fr.wmidas.nightrush.NightRush
+api-version: 1.13
+commands:
+  nightrush:
+    description: Commandes NightRush
+    usage: /nightrush <join|leave|start|scenario|setlobby|setspawn>
